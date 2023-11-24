@@ -1,0 +1,10 @@
+{"question":"What is the largest living organism","subject":"Biology","topic":"Size","difficulty":"Hard","marks":15}
+{"question":"What is the largest living organism","subject":"Biology","topic":"Size","difficulty":"Hard","marks":15}
+{"question":"What is the speed of light","subject":"Physics","topic":"Waves","difficulty":"Easy","marks":5}
+{"question":"What is the speed of light","subject":"Physics","topic":"Waves","difficulty":"Easy","marks":5}
+{"question":"What is the speed of light","subject":"Physics","topic":"Waves","difficulty":"Easy","marks":5}
+{"question":"What is the diameter of the earth","subject":"Physics","topic":"Size","difficulty":"Medium","marks":10}
+{"question":"What is the diameter of the earth","subject":"Physics","topic":"Size","difficulty":"Medium","marks":10}
+{"question":"What is the diameter of the earth","subject":"Physics","topic":"Size","difficulty":"Medium","marks":10}
+{"question":"What is the largest living organism","subject":"Biology","topic":"Size","difficulty":"Hard","marks":15}
+{"question":"What is the diameter of the earth","subject":"Physics","topic":"Size","difficulty":"Medium","marks":10}
